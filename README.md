@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Purnima7894
-- 👀 I’m interested in web development and java full stack developer 
+- 👋 Hi, I’m Purnima Rath.
+- 👀 I’m interested in web development and java full stack developer .
 - 🌱 I’m currently learning.
 
 <!---
